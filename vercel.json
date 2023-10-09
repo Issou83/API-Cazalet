@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Constelium",
+    "name": "sarl-cazalet.com",
     "builds": [
        { "src": "server.js", "use": "@vercel/node" }
     ],
